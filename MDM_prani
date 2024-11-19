@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Přání k Mezinárodnímu dni mužů</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f3f4f6;
+        }
+        h1 {
+            color: #007bff;
+        }
+        h2 {
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌟 Šťastný Mezinárodní den mužů! 🌟</h1>
+    <p>Díky za vsechnu tu srandu..</p>
+    <p>Ať je tvůj den klidný, pohodový a plný radosti!</p>
+    <h2>Hezký den, draku! 🐉</h2>
+</body>
+</html>
